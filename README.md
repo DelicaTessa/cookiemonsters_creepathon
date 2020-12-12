@@ -23,7 +23,7 @@ On multiple levels of our idea we need help.
   3. ..Any suggestion is appreciated!
   
 ## How can you lend a hand?
-We believe that everyone has skills and everyone can help us, either through (out-of-the-box)ideas, knowledge about what makes content sharable or of course, knowing how to code! We appreciate any input and we would love you to contact us via [![Gitter](https://badges.gitter.im/CookieMonsters_Creepathon/community.svg)](https://gitter.im/CookieMonsters_Creepathon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Together we can build a community that can make this idea into a success!
+We believe that everyone has skills and everyone can help us, either through (out-of-the-box)ideas, knowledge about what makes content sharable or of course, knowing how to code! We appreciate any input and we would love you to contact us via [![Gitter](https://badges.gitter.im/CookieMonsters_Creepathon/community.svg)](https://gitter.im/CookieMonsters_Creepathon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Together we can build a community that can make this idea into a success! Before you message us, please read the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Find out more...
 We were inspired by this website called [Public by Default](https://publicbydefault.fyi) that visualises in a fun way what kind of data is publicly available from the Vemno app. Also we loved the idea of [Data Selfie](https://dataselfie.it/#/), that gives you an idea what analyses Facebook can do with your data.
